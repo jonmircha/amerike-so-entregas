@@ -2,25 +2,14 @@
 setup: |
   import Layout from '../../layouts/BlogPost.astro'
   import Cool from '../../components/Author.astro'
-title: Hello world!
-publishDate: 12 Sep 2021
-name: Nate Moore
-value: 128
-description: Just a Hello World Post!
+title: Información de la materia
+publishDate: 31 Mar 2022
+name: Jonathan MirCha
+description: Aquí encontraras toda la información y planeación de tu materia S.O. y Redes
 ---
 
-<Cool name={frontmatter.name} href="https://twitter.com/n_moore" client:load />
+<Cool name={frontmatter.name} href="https://github.com/jonmircha" client:load />
 
-This is so cool!
+## S.O y Redes Sociales
 
-Do variables work {frontmatter.value * 2}?
-
-```javascript
-// Example JavaScript
-
-const x = 7;
-function returnSeven() {
-  return x;
-}
-
-```
+Hola Estudiantes!
