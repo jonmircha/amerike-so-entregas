@@ -1,0 +1,19 @@
+{
+  "name": "@example/blog-multiple-authors",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@astrojs/preact": "^0.0.2",
+    "astro": "^0.25.4",
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "preact": "^10.6.6"
+  }
+}
