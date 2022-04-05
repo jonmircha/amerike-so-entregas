@@ -10,5 +10,9 @@
   "jon": {
     "name": "Jonathan MirCha",
     "image": "/images/jonmircha.jpg"
+  },
+  "jonamerike": {
+    "name": "Jon Amerike",
+    "image": "/images/jonamerike.jpg"
   }
 }
