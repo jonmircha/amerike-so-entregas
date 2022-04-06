@@ -10,7 +10,7 @@ description: Post del alumno: Entrega practicas Juan Estrada
 ## Juan Estrada 
 - Practicas 
  
-- [Practicas_1-4] (https://github.com/JuanEstrada01/Sistemas-Operativos-.git)
-- [Practicas_5-7] (https://github.com/JuanEstrada01/pagina-so-.git)
- - [Practica_8] (https://github.com/JuanEstrada01)
+- [Practicas_1-4](https://github.com/JuanEstrada01/Sistemas-Operativos-.git)
+- [Practicas_5-7](https://github.com/JuanEstrada01/pagina-so-.git)
+- [Practica_8](https://github.cgiom/JuanEstrada01)
  
