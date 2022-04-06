@@ -6,9 +6,11 @@ image: /images/Hwasa.jpg
 author: Juan Estrada
 description: Post del alumno: Entrega practicas Juan Estrada 
 ---
-# Juan Estrada 
-## Practicas 
- [Practicas:1-4][https://github.com/JuanEstrada01/Sistemas-Operativos-.git]
- [Practicas:5-7][https://github.com/JuanEstrada01/pagina-so-.git]
-  [Practica:8][https://github.com/JuanEstrada01]
+# Alumno
+## Juan Estrada 
+- Practicas 
+ 
+- [Practicas_1-4] (https://github.com/JuanEstrada01/Sistemas-Operativos-.git)
+- [Practicas_5-7] (https://github.com/JuanEstrada01/pagina-so-.git)
+ - [Practica_8] (https://github.com/JuanEstrada01)
  
