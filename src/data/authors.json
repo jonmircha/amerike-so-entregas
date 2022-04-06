@@ -14,5 +14,10 @@
   "jonamerike": {
     "name": "Jon Amerike",
     "image": "/images/jonamerike.jpg"
+  },
+  "PedroMorales": {
+    "name": "Pedro Morales",
+    "image": "/images/Pedro.jpg"
   }
+
 }
