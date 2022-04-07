@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: Syllabus S.O. y Redes
-date: 2022-04-03
+date: 2022-04-05
 image: /images/jonmircha.jpg
 author: jon
 description: Este es el syllabus de la materia S.O y Redes de Amerike
