@@ -14,7 +14,6 @@
     "sass": "^1.49.9"
   },
   "dependencies": {
-    "Astro": "npm:astro@^0.25.4",
     "preact": "^10.6.6"
   }
 }
