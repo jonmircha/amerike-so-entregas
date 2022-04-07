@@ -15,12 +15,14 @@
     "name": "Jon Amerike",
     "image": "/images/jonamerike.jpg"
   },
-  "RicardoCalderon": 
-  {
-    "name": "Ricardo Calderon",
-    "image": "(/images/RichyCalderon.jpg)"
+  "PedroMorales": {
+    "name": "Pedro Morales",
+    "image": "/images/Pedro.jpg"
   },
-  {
+  "RicardoCalderon": {
+    "name": "Ricardo Calderon",
+    "image": "/images/RichyCalderon.jpg)"
+  },
   "juanestrada": {
     "name": "Juan Estrada",
     "image": "/images/Hwasa.jgp"
