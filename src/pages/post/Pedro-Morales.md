@@ -3,7 +3,7 @@ layout: ../../layouts/post.astro
 title: Entrega Pedro Morales
 date: 22-04-05
 image: /images/Pedro.jpg
-author: Pedro Morales
+author: PedroMorales
 description: Este es la entrega de prácticas Git del usuario Pedro Morales
 ---
 
@@ -20,4 +20,3 @@ description: Este es la entrega de prácticas Git del usuario Pedro Morales
 ## Practica 8
 
 [Práctica](https://github.com/MasterPedro1/MasterPedro1)
-
