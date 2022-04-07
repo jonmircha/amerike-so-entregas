@@ -15,6 +15,10 @@
     "name": "Jon Amerike",
     "image": "/images/jonamerike.jpg"
   },
+  "tobias":{
+    "name":"Tobias Gutierrez",
+    "image":"/images/tobiasfoto.jpg"
+  },
   "NegligentWhale7": {
     "name": "Alam Armas",
     "image": "/images/alam.jpg"
@@ -29,6 +33,6 @@
   },
   "juanestrada": {
     "name": "Juan Estrada",
-    "image": "/images/Hwasa.jgp"
+    "image": "/images/Hwasa.jpg"
   }
 }
