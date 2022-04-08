@@ -38,5 +38,9 @@
   "juanestrada": {
     "name": "Juan Estrada",
     "image": "/images/Hwasa.jpg"
+  },
+  "AldoCruz": {
+    "name": "Aldo Cruz",
+    "image": "/images/Aldo.jpg"
   }
 }
